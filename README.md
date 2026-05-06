@@ -20,7 +20,7 @@
 - 💼 Freelancer Developer  
 - 🌍 Worked with International Clients  
 - 💻 Skilled in React, Next.js, JavaScript  
-- ⚡ Firebase, MongoDB, Supabase Experience  
+- ⚡ Experience with Firebase, MongoDB, Supabase, Cloudflare, Vercel, Netlify & Modern Cloud Hosting
 - 🧠 DSA & Problem Solving Enthusiast  
 - 🏐 State-Level Volleyball Player  
 
