@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Upadhyay</h1>
-<h3 align="center">🚀 Frontend Developer | Freelancer | React Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | Freelancer | React Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;React+Developer;Freelancer;Building+Real+World+Projects;Always+Learning+New+Things&center=true&width=500&height=50">
