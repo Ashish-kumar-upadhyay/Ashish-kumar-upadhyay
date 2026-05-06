@@ -71,7 +71,7 @@
 
 <p align="center">
 <a href="https://learnxplatform.qzz.io/">
-  <img src="https://img.shields.io/badge/Live Project-coming soon-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🚀 Live Project-00C853?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 </p>
 
