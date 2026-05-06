@@ -116,26 +116,44 @@
 
 ---
 
-## 📊 GitHub Stats
+## ✨ GitHub Analytics
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=My+GitHub+Stats;Consistency+%F0%9F%94%A5;Building+Everyday&center=true&width=400&height=40">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashish-kumar-upadhyay&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=FF6EC7&text_color=FFFFFF" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=Ashish-kumar-upadhyay&theme=radical&hide_border=true&background=0D1117&ring=FF6EC7&fire=FF6EC7&currStreakLabel=FFFFFF" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-kumar-upadhyay&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashish-kumar-upadhyay&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=GitHub+Analytics+Dashboard;Consistency+%F0%9F%94%A5;Code+Everyday+🚀;Building+Impactful+Projects&center=true&width=500&height=45">
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashish-kumar-upadhyay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Ashish-kumar-upadhyay&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=FFFFFF" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-kumar-upadhyay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="140"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashish-kumar-upadhyay&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish-kumar-upadhyay&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashish-kumar-upadhyay&label=Profile+Views&color=00F7FF&style=for-the-badge"/>
+</p>
 
 ## 🎯 Goals 2025
 
