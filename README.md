@@ -70,7 +70,7 @@
 - 🎯 Focused on scalable UI  
 
 <p align="center">
-<a href="#">
+<a href="https://learnxplatform.qzz.io/">
   <img src="https://img.shields.io/badge/Live Project-coming soon-blue?style=for-the-badge">
 </a>
 </p>
