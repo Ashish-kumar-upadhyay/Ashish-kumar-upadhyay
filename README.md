@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | Freelancer | React Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;React+Developer;Freelancer;Building+Real+World+Projects;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full Stack Developer;React+Developer;Freelancer;Building+Real+World+Projects;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 ---
