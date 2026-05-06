@@ -119,15 +119,18 @@
 ## ✨ GitHub Analytics
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=GitHub+Analytics+Dashboard;Consistency+%F0%9F%94%A5;Code+Everyday+🚀;Building+Impactful+Projects&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=GitHub+Analytics+Dashboard;Consistency+🔥;Code+Everyday+🚀;Building+Real+Projects" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashish-kumar-upadhyay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashish-kumar-upadhyay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&cache_seconds=1800" height="165"/>
+  
   <img src="https://streak-stats.demolab.com?user=Ashish-kumar-upadhyay&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=FFFFFF" height="165"/>
 </p>
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-kumar-upadhyay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="140"/>
@@ -138,15 +141,15 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashish-kumar-upadhyay&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashish-kumar-upadhyay&theme=algolia&no-frame=true&margin-w=10"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Graph (Smooth Animated)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish-kumar-upadhyay&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish-kumar-upadhyay&theme=github-compact&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true"/>
 </p>
 
 ---
