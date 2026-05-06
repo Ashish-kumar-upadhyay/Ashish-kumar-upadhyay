@@ -33,41 +33,86 @@
 
 ---
 
-## 💼 Freelance Experience
+## 🚀 Featured Projects
 
-### 🌍 Dubai Client Perfume E-Commerce Website
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=My+Best+Projects;Real+World+Applications;Freelance+Work+%F0%9F%92%BC;Full+Stack+Projects&center=true&width=500&height=40">
+</p>
+
+---
+
+## 🌍 1. Dubai Client Perfume E-Commerce Website 💼
+
+✨ **Freelance Project (International Client)**  
+💻 Next.js • MongoDB • Admin Panel • Vercel  
+
 - 🛒 Built full-stack e-commerce platform  
 - 🎨 Designed modern UI with smooth animations  
 - ⚙️ Developed admin panel for product & order management  
 - 💳 Integrated secure payment system  
-- 🚀 Deployed multiple versions on Vercel  
+- 🚀 Deployed multiple production versions  
 
-🔗 **Live:** https://www.noamani.com/
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Kitchen Recipe App
-- React + Firebase based app  
-- Authentication + real-time data  
-- Search & filter features  
-
-🔗 [Live](https://recpie-kitchen.vercel.app/) | [GitHub](https://github.com/Ashish-kumar-upadhyay/recpie-kitchen)
+<p align="center">
+<a href="https://www.noamani.com/">
+  <img src="https://img.shields.io/badge/🌐 Live Website-black?style=for-the-badge&logo=vercel">
+</a>
+</p>
 
 ---
 
-### 🔹 Quiz Master
-- Dynamic quiz app with responsive UI  
-🔗 [Live](https://quizmaster-20.netlify.app/) | [GitHub](https://github.com/MSDIANOP/QuizMaster)
+## 📚 2. LMS (Learning Management System) 🎓
+
+💻 React • Firebase • Authentication  
+
+- 📘 Built learning platform with user login  
+- 🔐 Secure authentication system  
+- 📊 Real-time data handling  
+- 🎯 Focused on scalable UI  
+
+<p align="center">
+<a href="#">
+  <img src="https://img.shields.io/badge/Live Project-coming soon-blue?style=for-the-badge">
+</a>
+</p>
 
 ---
 
-### 🔹 Employee Task Manager
-- React + Redux + Firebase  
-- Role-based system + analytics  
+## 🍳 3. Kitchen Recipe App 🔥
 
-🔗 [Live](https://employeetasktrackerapplication.netlify.app/) | [GitHub](https://github.com/sapna008/3934)
+💻 React • Firebase • Vite  
+
+- 🔐 User authentication system  
+- ⚡ Real-time Firestore data  
+- 🔍 Search & filter recipes  
+- 📱 Fully responsive UI  
+
+<p align="center">
+<a href="https://recpie-kitchen.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀 Live App-green?style=for-the-badge&logo=vercel">
+</a>
+<a href="https://github.com/Ashish-kumar-upadhyay/recpie-kitchen">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+---
+
+## 🧑‍💼 4. Employee Task Manager 📊
+
+💻 React • Redux • Firebase  
+
+- 👥 Role-based task management system  
+- 📊 Performance tracking dashboard  
+- 🔔 Notifications & real-time updates  
+
+<p align="center">
+<a href="https://employeetasktrackerapplication.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐 Live App-orange?style=for-the-badge&logo=netlify">
+</a>
+<a href="https://github.com/sapna008/3934">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+</p>
 
 ---
 
