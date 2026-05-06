@@ -1,79 +1,99 @@
-# Hi there, I'm Ashish! 👋
+# 👋 Hi there, I'm Ashish Kumar Upadhyay
 
-Welcome to my GitHub profile! I'm a passionate **Frontend Developer** with a strong foundation in **HTML, CSS, JavaScript**, and frameworks like **React**. I'm currently upskilling through intensive training at **Masai School**, and I love building scalable, real-world applications.
-
----
-
-## 🌟 About Me:
-
-- 🎓 Final Year B.Tech Student in Information Technology (Sushila Devi Bansal College, Indore).
-- 🔭 Currently building apps that improve productivity and user engagement.
-- 💻 Skilled in **HTML, CSS, JavaScript, React, Redux**, and **Firebase, Supabase** for backend-as-a-service.
-- 🚀 Practicing **Data Structures & Algorithms** to sharpen problem-solving.
-- 🧠 Always learning and adapting to new technologies.
-- 🌍 From Indore, Madhya Pradesh – Volleyball champ and tech enthusiast!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+JavaScript;Freelancer+%7C+Problem+Solver;Building+Real+World+Projects+🚀" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack:
+## 🚀 About Me
 
-### Frontend & Tools:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-### Tools:
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
+* 🎓 BCA Graduate in Computer Applications
+* 💼 **Freelance Frontend Developer**
+* 🧑‍💻 Successfully completed multiple **local client projects**
+* 💻 Skilled in **React, Next.js, JavaScript, HTML, CSS**
+* ⚡ Experience with **Firebase & Supabase**
+* 🧠 Practicing **DSA**
+* 🏐 State-level Volleyball Player
+* 📍 Indore, Madhya Pradesh
 
 ---
 
-## 🚀 Projects:
+## 🧑‍💻 Experience
 
-- 🔹 [**Quiz Master**](https://quizmaster-20.netlify.app/)  
-  Real-time quiz app with dynamic question generation and responsive design.  
-  [GitHub](https://github.com/MSDIANOP/QuizMaster)
+### 💼 Freelancer (Frontend / Full Stack Developer)
 
-- 🔹 [**Employee Productivity Tracker**](https://employeetasktrackerapplication.netlify.app/)  
-  Built with React + Redux + Firebase for role-based tracking and task analytics.  
-  [GitHub](https://github.com/sapna008/3934)
-
-- 🔹 [**Amazon Clone**](https://github.com/Ashish-kumar-upadhyay/clone-amazone)  
-  UI clone using HTML and CSS.
-
-- 🔹 [**Meesho & Flipkart Clone**](https://github.com/Ashish-kumar-upadhyay/Clone-Meesho-website)  
-  Frontend clones for e-commerce learning projects.
+* 🚀 Developed a **Dubai-based Perfume E-commerce Website**
+* 🎨 Built responsive UI with smooth animations
+* 🛒 Created admin panel for product & order management
+* 💳 Integrated payment system & deployed on Vercel
+* 🔄 Delivered multiple versions based on client feedback
 
 ---
 
-## 📫 Connect With Me:
+### 🏫 LMS Project (Local Client Project)
 
-- 📧 Email: [ashishkumarupadhyay0328@gmail.com](mailto:ashishkumarupadhyay0328@gmail.com)
-- 💼 LinkedIn: [Ashish Kumar Upadhyay](https://www.linkedin.com/in/ashish-kumar-upadhyay-071499284)
-- 🌐 Portfolio: [ashish-portflio.netlify.app](https://ashish-portflio.netlify.app)
-
----
-
-## ⚡ GitHub Stats
-
-![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashish-kumar-upadhyay&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-kumar-upadhyay&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+* 📚 Built a **Learning Management System (LMS)** for local usage
+* 👨‍🎓 Managed student data, courses, and dashboard
+* 🔐 Implemented authentication & role-based access
+* ⚡ Focused on performance and clean UI
+* ✅ Successfully completed and delivered to client
 
 ---
 
-## 🚀 Goals for 2025:
+## 🛠️ Tech Stack
 
-- 🌱 Learn TypeScript & Tailwind CSS
-- 💡 Contribute to open-source
-- 🎯 Secure a frontend dev role
-- 🧩 Build a SaaS product
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase)
 
 ---
 
-### Thanks for stopping by! 👨‍💻 Let's build something amazing together!
+## 🚀 Projects
+
+### 🛍️ Perfume E-Commerce Website
+
+🔗 https://www.noamani.com/
+
+* Full-stack e-commerce application
+* Admin panel for product & order management
+* Secure payment integration
+
+---
+
+### 🍲 Kitchen Recipe App
+
+🔗 https://recpie-kitchen.vercel.app/
+🔗 https://github.com/Ashish-kumar-upadhyay/recpie-kitchen
+
+* Recipe sharing platform
+* Firebase authentication
+* Real-time database
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashish-kumar-upadhyay&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-kumar-upadhyay&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🎯 2025 Goals
+
+* 🚀 Learn TypeScript & Advanced Next.js
+* 💡 Build SaaS Product
+* 🌍 Contribute to Open Source
+* 🎯 Get Frontend Developer Job
+
+---
+
+<h3 align="center">🔥 Real Projects. Real Experience. Ready to Build 🚀</h3>
