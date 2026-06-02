@@ -151,21 +151,7 @@ React • Redux • Firebase
 
 ---
 
-# 🏆 Achievements & Trophies
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Achievements&fontSize=42&color=0:00F7FF,100:8A2BE2&stroke=FFFFFF&fontColor=FFFFFF&animation=twinkling"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashish-kumar-upadhyay&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashish-kumar-upadhyay&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
-</p>
-
----
 
 # 🐍 Contribution Snake Animation
 
