@@ -1,63 +1,250 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Ashish Kumar Upadhyay</h1>
 
-<h3><code>ashish@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" />
+<h3 align="center">
+🚀 Full Stack Developer | Freelancer | React & Next.js Enthusiast
+</h3>
 
-<br><br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Ashish%20Kumar%20Upadhyay&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
 
-<h3><code>ashish@github ~ $ whoami</code></h3>
-<table>
-  <tr>
-    <td valign="top"><img src="./profile-ascii.svg" width="370" /></td>
-    <td valign="top"><img src="./info-card.svg" width="490" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%26+Next.js+Developer;Freelancer+💼;Building+Real+World+Projects+🚀;Always+Learning+New+Things+🔥"/>
+</p>
 
-<br><br>
-
-<h3><code>ashish@github ~ $ ./links.sh</code></h3>
-
-**Full Stack Developer · Freelancer · React & Next.js**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-ashishupadhyay.me-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://ashishupadhyay.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish_Kumar_Upadhyay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-upadhyay-071499284)
-[![Gmail](https://img.shields.io/badge/Gmail-ashishkumarupadhyay0328@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishkumarupadhyay0328@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Ashish--kumar--upadhyay-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashish-kumar-upadhyay)
-
-</div>
+<p align="center">
+  <img src="./profile-ascii.svg" width="420" alt="ASCII portrait" />
+</p>
 
 ---
 
-### Featured projects
+# 🌟 About Me
 
-| Project | Stack | Link |
-| --- | --- | --- |
-| Dubai Perfume E-Commerce | Next.js · MongoDB · Vercel | [noamani.com](https://www.noamani.com/) |
-| LMS Platform | React · Firebase | [learnxplatform.qzz.io](https://learnxplatform.qzz.io/) |
-| Kitchen Recipe App | React · Firebase · Vite | [Live](https://recpie-kitchen.vercel.app/) · [GitHub](https://github.com/Ashish-kumar-upadhyay/recpie-kitchen) |
+* 🎓 BCA Graduate
+* 💼 2+ Years of Freelance Development Experience
+* 🌍 Worked with International Clients
+* 🏢 Former Intern at IKKASHIN Technologies
+* 💻 Skilled in React.js, Next.js, JavaScript & TypeScript
+* ⚙️ Backend Development with Node.js, Express.js & MongoDB
+* 🚀 Experience with SEO, AI Chatbots, Cloudflare, Vercel & Modern Cloud Hosting
+* 🧠 DSA & Problem Solving Enthusiast
+* 🏐 State-Level Volleyball Player
 
 ---
 
-<details>
-<summary><code>ashish@github ~ $ cat README.md --regenerate</code></summary>
+# 🚀 Tech Stack
 
-Portrait and info card (when you change photo or bio):
+## 🎨 Frontend
 
-```bash
-python -m venv .venv
-.venv\Scripts\activate
-pip install -r scripts/requirements.txt
-python scripts/prep_photo.py assets/profile.png source-prepped.png
-python scripts/make_ascii_svg.py source-prepped.png profile-ascii.svg
-python scripts/make_info_card.py
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,vite"/>
+</p>
 
-Contribution heatmap (also runs daily via GitHub Actions):
+---
 
-```bash
-pip install requests beautifulsoup4
-python scripts/fetch_contributions.py
-python scripts/render_heatmap_svg.py
-```
+## ⚙️ Backend & Tools
 
-</details>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,git,github,vscode,vercel"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=80&section=header&text=Featured%20Projects&fontSize=30&fontColor=ffffff"/>
+</p>
+
+---
+
+# 🩺 Dr. Rajat Maheshwari — Doctor Website
+
+✨ Freelance Project
+
+### 🚀 Tech Stack
+
+Next.js • SEO • AI Chatbot • Responsive UI • Vercel • Cloudflare
+
+* 🌐 Professional website for a medical professional
+* 🔍 SEO Optimization & Search Engine Indexing
+* 🤖 AI-Powered Chatbot Integration
+* 📱 Responsive & User-Friendly Design
+* ⚡ Website Performance Optimization
+* 🩺 Medical Services & Information Pages
+* 📈 Technical SEO & Structured Data
+* 🚀 Domain Configuration & Production Deployment
+
+<p align="center">
+  <a href="https://drrajatmaheshwar.in/">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 📚 LearnX — Learning Management System 🎓
+
+✨ Full-Stack Development Project
+
+### 🚀 Tech Stack
+
+Next.js • React • Node.js • Express.js • MongoDB • Mongoose • Tailwind CSS
+
+* 🔐 Role-Based Authentication for Admins, Teachers & Students
+* 👨‍🏫 Teacher and Student Management
+* 📧 Automated Student Credential Emails
+* 📝 AI-Assisted Quiz & Exam Generation
+* 📊 Student Dashboard & Academic Analytics
+* 📅 Attendance, Assignments, Timetable & Fee Management
+* 🎥 Lecture Videos & Online Exams
+* 🏆 Student Leaderboard & Progress Tracking
+* 🎨 Modern, Responsive UI with Interactive Dashboards
+* 🚀 Deployed Production Application
+
+<p align="center">
+  <a href="https://learnxplatform.qzz.io/">
+    <img src="https://img.shields.io/badge/🚀_Live_Project-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 👞 Luxury Shoes — E-Commerce Website
+
+✨ Full-Stack E-Commerce Project
+
+### 🚀 Tech Stack
+
+Next.js • React • JavaScript • Responsive UI • Web Deployment
+
+* 🛍️ Luxury Footwear Shopping Experience
+* 🎨 Premium & Modern User Interface
+* 📱 Responsive Design for Mobile and Desktop
+* 🛒 E-Commerce Website Experience
+* ⚡ Optimized User Experience
+* 🚀 Live Website Deployment
+
+<p align="center">
+  <a href="https://luxuryshoes.dpdns.org/">
+    <img src="https://img.shields.io/badge/🌐_Live_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 🍳 Kitchen Recipe App 🔥
+
+### 🚀 Tech Stack
+
+React • Firebase • Vite
+
+* 🔐 User Authentication
+* ⚡ Firestore Database
+* 🔍 Search & Filter
+* 📱 Fully Responsive
+
+<p align="center">
+<a href="https://recpie-kitchen.vercel.app/">
+<img src="https://img.shields.io/badge/🚀_Live_App-green?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/Ashish-kumar-upadhyay/recpie-kitchen">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+# 🧑‍💼 Employee Task Manager 📊
+
+### 🚀 Tech Stack
+
+React • Redux • Firebase
+
+* 👥 Role-Based Management
+* 📊 Dashboard Analytics
+* 🔔 Notifications
+
+<p align="center">
+<a href="https://employeetasktrackerapplication.netlify.app/">
+<img src="https://img.shields.io/badge/🌐_Live_App-orange?style=for-the-badge&logo=netlify"/>
+</a>
+
+<a href="https://github.com/sapna008/3934">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=header&text=GitHub%20Analytics&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashish-kumar-upadhyay&theme=tokyonight" height="165"/>
+
+  <img src="https://streak-stats.demolab.com?user=Ashish-kumar-upadhyay&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashish-kumar-upadhyay&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish-kumar-upadhyay&theme=github-compact&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true"/>
+</p>
+
+---
+
+# 🎯 Goals 2026
+
+* 🌱 Master TypeScript & Advanced Next.js
+* 💡 Build & Launch a SaaS Product
+* 🌍 Work with More International Clients
+* 🎯 Grow as a Full Stack Developer
+* 🚀 Build Scalable, Real-World Applications
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:ashishkumarupadhyay0328@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ashish-kumar-upadhyay-071499284/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://ashishupadhyay.qzz.io/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+💡 I turn ideas into real-world applications  
+🏐 Volleyball + Coding = Perfect Combo
+
+---
+
+<h3 align="center">
+✨ Thanks for visiting my profile! 🚀
+</h3>
