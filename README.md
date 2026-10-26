@@ -19,7 +19,7 @@
 
 **Full Stack Developer · Freelancer · React & Next.js**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ashish--p.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://ashish-p.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ashishupadhyay.me-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://ashishupadhyay.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish_Kumar_Upadhyay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-upadhyay-071499284)
 [![Gmail](https://img.shields.io/badge/Gmail-ashishkumarupadhyay0328@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishkumarupadhyay0328@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Ashish--kumar--upadhyay-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashish-kumar-upadhyay)

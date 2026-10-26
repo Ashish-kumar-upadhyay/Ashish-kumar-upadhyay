@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Neofetch-style profile info card SVG with staggered line reveal."""
+"""Neofetch-style info card (Now / Prev / Stack / Highlights) with line reveal."""
 import html
 import os
 import sys
@@ -9,8 +9,9 @@ OUT = sys.argv[1] if len(sys.argv) > 1 else os.path.join(HERE, "..", "info-card.
 
 HOST = os.environ.get("PROFILE_HOST", "ashish@github")
 NAME = os.environ.get("PROFILE_NAME", "Ashish Kumar Upadhyay")
-
-W, H = 490, 520
+# match profile-ascii.svg canvas height when COLS=100 (~880)
+H = int(os.environ.get("CARD_H", "880"))
+W = 490
 TITLEBAR_H = 30
 PAD = 22
 BG = "#0d1117"
@@ -20,19 +21,18 @@ MUTED = "#7d8590"
 TEXT = "#e6edf3"
 
 ROWS = [
-    ("OS", "Full Stack Developer", "#22d3ee"),
-    ("Host", "Freelancer · India", "#39d353"),
-    ("Kernel", "React · Next.js · Node.js", "#a371f7"),
-    ("Shell", "JavaScript · TypeScript · MongoDB", "#f778ba"),
-    ("Uptime", "BCA · International clients", "#ffa657"),
-    ("Packages", "Firebase · Supabase · Vercel", "#79c0ff"),
-    ("Highlight", "Dubai e-commerce · LMS · Recipe app", "#ffd700"),
-    ("Fun", "State-level volleyball · DSA", "#8b949e"),
+    ("Now", "Full Stack Developer · Freelancer", "#22d3ee"),
+    ("Prev", "BCA · International client projects", "#39d353"),
+    ("Stack", "React · Next.js · Node · TypeScript", "#a371f7"),
+    ("Stack", "MongoDB · Firebase · Supabase · Vercel", "#f778ba"),
+    ("Highlights", "Dubai perfume e-commerce (live)", "#ffa657"),
+    ("Highlights", "LMS platform · Kitchen recipe app", "#79c0ff"),
+    ("Highlights", "State-level volleyball · DSA", "#ffd700"),
 ]
 
 STATIC = bool(os.environ.get("STATIC"))
 LINE_DUR = 0.45
-STAGGER = 0.12
+STAGGER = 0.14
 
 css = f"""
 @keyframes lineIn {{
@@ -62,18 +62,18 @@ parts.append(
     f'text-anchor="middle">{html.escape(HOST)}: ~$ neofetch</text>'
 )
 
-y0 = TITLEBAR_H + 36
+y0 = TITLEBAR_H + 40
 parts.append(
-    f'<text x="{PAD}" y="{y0}" fill="{TEXT}" font-size="22" font-weight="700">'
+    f'<text x="{PAD}" y="{y0}" fill="{TEXT}" font-size="20" font-weight="700">'
     f"{html.escape(NAME)}</text>"
 )
 parts.append(
-    f'<text x="{PAD}" y="{y0 + 28}" fill="{MUTED}" font-size="12">'
-    f"Building real-world apps · Portfolio on Vercel</text>"
+    f'<text x="{PAD}" y="{y0 + 26}" fill="{MUTED}" font-size="12">'
+    f"ashishupadhyay.me · Indore, India</text>"
 )
 
 for i, (key, val, color) in enumerate(ROWS):
-    y = y0 + 58 + i * 34
+    y = y0 + 56 + i * 36
     delay = i * STAGGER
     cls = "" if STATIC else ' class="l"'
     style = "" if STATIC else f' style="animation-delay:{delay:.2f}s"'
@@ -81,7 +81,7 @@ for i, (key, val, color) in enumerate(ROWS):
         f'<g{cls}{style}>'
         f'<text x="{PAD}" y="{y}" fill="{color}" font-size="13" font-weight="700">'
         f"{html.escape(key)}</text>"
-        f'<text x="{PAD + 108}" y="{y}" fill="{TEXT}" font-size="13">'
+        f'<text x="{PAD + 98}" y="{y}" fill="{TEXT}" font-size="13">'
         f"{html.escape(val)}</text>"
         f"</g>"
     )
