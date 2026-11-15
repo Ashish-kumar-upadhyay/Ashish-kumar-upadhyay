@@ -1,17 +1,17 @@
 {
   "username": "Ashish-kumar-upadhyay",
-  "generated_at": "2026-11-14T13:27:57Z",
+  "generated_at": "2026-11-15T13:53:13Z",
   "range": {
-    "start": "2025-11-09",
-    "end": "2026-11-14"
+    "start": "2025-11-16",
+    "end": "2026-11-15"
   },
-  "total_contributions": 1167,
-  "active_days": 210,
+  "total_contributions": 1133,
+  "active_days": 204,
   "avg_per_active_day": 5.6,
   "current_streak": {
-    "length": 8,
+    "length": 9,
     "start": "2026-11-06",
-    "end": "2026-11-13"
+    "end": "2026-11-14"
   },
   "longest_streak": {
     "length": 20,
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-11",
-      "total": 129
+      "total": 94
     },
     {
       "month": "2025-12",
@@ -73,45 +73,10 @@
     },
     {
       "month": "2026-11",
-      "total": 12
+      "total": 13
     }
   ],
   "days": [
-    {
-      "date": "2025-11-09",
-      "count": 10,
-      "level": 3
-    },
-    {
-      "date": "2025-11-10",
-      "count": 6,
-      "level": 2
-    },
-    {
-      "date": "2025-11-11",
-      "count": 3,
-      "level": 1
-    },
-    {
-      "date": "2025-11-12",
-      "count": 9,
-      "level": 2
-    },
-    {
-      "date": "2025-11-13",
-      "count": 5,
-      "level": 2
-    },
-    {
-      "date": "2025-11-14",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-11-15",
-      "count": 1,
-      "level": 1
-    },
     {
       "date": "2025-11-16",
       "count": 7,
@@ -1929,6 +1894,11 @@
     },
     {
       "date": "2026-11-14",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-11-15",
       "count": 0,
       "level": 0
     }
